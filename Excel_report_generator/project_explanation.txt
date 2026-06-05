@@ -1,0 +1,50 @@
+Project Title
+Excel Report Generator
+
+Project Description
+The Excel Report Generator is a Python application designed to automate the creation of Excel reports
+from CSV files. Manual report creation in Excel is time-consuming and repetitive. This project reduces
+manual effort by automatically generating summaries, pivot tables, and charts.
+
+Objective
+The main objective of this project is to convert structured CSV data into a professional Excel report
+with minimal user interaction.
+
+Workflow
+1. The user launches the application.
+2. The user selects a CSV file using the file upload dialog.
+3. The program reads the CSV file using pandas.
+4. Missing values are removed to ensure clean data.
+5. Numeric columns are identified automatically.
+6. Summary statistics such as total, average, minimum, and maximum are calculated.
+7. A pivot table is created by grouping data and applying aggregation.
+8. A bar chart is generated using matplotlib.
+9. An Excel file is created with multiple sheets.
+10. The chart is embedded into the Excel report.
+11. The final Excel file is saved to the user-selected location.
+
+Modules Used:
+Pandas is used for data reading, cleaning, and analysis.
+Matplotlib is used to generate charts.
+Openpyxl is used to create and format Excel files.
+Tkinter is used to build the graphical user interface.
+
+
+Limitations:
+The application supports only CSV files.
+Only one numeric column is processed at a time.
+The pivot table structure is fixed.
+Large datasets may affect performance.
+
+
+Future Enhancements:
+Support for Excel and JSON files.
+User selection of numeric columns.
+Multiple aggregation options.
+Additional chart types.
+Improved user interface design.
+
+
+Conclusion:
+This project demonstrates practical usage of Python libraries for data analysis and automation.
+It is useful for learning file handling, data processing, and report generation in real-world scenarios.

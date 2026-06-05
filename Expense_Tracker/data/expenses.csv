@@ -1,0 +1,31 @@
+Date,Category,Description,Amount,Payment_Mode
+2026-01-01,Food,Swiggy Order,320,UPI
+2026-01-02,Transport,Metro Recharge,150,Card
+2026-01-03,Shopping,Tshirt Purchase,1200,UPI
+2026-01-04,Bills,Electricity Bill,2450,Net Banking
+2026-01-05,Entertainment,Movie Tickets,600,Credit Card
+2026-01-06,Food,Restaurant Dinner,850,Cash
+2026-01-07,Health,Medicines,430,UPI
+2026-01-08,Transport,Petrol,1800,Credit Card
+2026-01-09,Shopping,Grocery Shopping,2300,UPI
+2026-01-10,Bills,Internet Bill,999,Net Banking
+2026-01-11,Food,Coffee Shop,220,Cash
+2026-01-12,Entertainment,Spotify Subscription,119,Card
+2026-01-13,Health,Gym Membership,1500,UPI
+2026-01-14,Transport,Cab Fare,340,UPI
+2026-01-15,Shopping,Amazon Purchase,3200,Credit Card
+2026-01-16,Bills,Water Bill,700,Net Banking
+2026-01-17,Food,Dominos Pizza,540,UPI
+2026-01-18,Entertainment,Cricket Match Ticket,2500,Credit Card
+2026-01-19,Health,Doctor Consultation,900,Cash
+2026-01-20,Transport,Bike Service,2800,UPI
+2026-01-21,Shopping,Shoes Purchase,4200,Credit Card
+2026-01-22,Food,Bakery Items,310,Cash
+2026-01-23,Bills,Mobile Recharge,399,UPI
+2026-01-24,Entertainment,Netflix Subscription,649,Card
+2026-01-25,Health,Protein Powder,2100,UPI
+2026-01-26,Transport,Bus Pass,700,Cash
+2026-01-27,Shopping,Headphones,3500,Credit Card
+2026-01-28,Food,Lunch with Friends,950,UPI
+2026-01-29,Bills,Gas Bill,1250,Net Banking
+2026-01-30,Entertainment,Gaming Purchase,1800,Credit Card
